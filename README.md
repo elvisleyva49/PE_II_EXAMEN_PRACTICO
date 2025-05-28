@@ -19,6 +19,10 @@ Lo seleccionamos y elegimos la empresa con la que queremos generar el cronograma
 Y nos mostrara el proceso de avance que tiene nuestra empresa en cuanto a l plan estratégico.
 ![image](https://github.com/user-attachments/assets/92d8ede7-2ee6-494d-886f-ff10ed161286)
 
+Lo que esta de verde es lo que se ha avanzado
+Lo que esta de plomo es lo que no hemos implementado aun en nuestra base de datos, mas si funciona en el sistema.
+y lo rojo es lo que la empresa no ha podido avanzar en cuanto a su Plan estratégico
+
 Ojo: Funciona con los siguientes procesos 
 1. Mision 
 2. Vision
